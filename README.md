@@ -1,7 +1,9 @@
 # 功能特点
--  支持域名、IPv6/IPV6归属地查询
--  支持自动提取IP或域名，直接粘贴完整URL亦可正常查询
--  首次访问默认显示访问客户端的IP信息
+-  支持域名、IPv6/IPV6归属地查询；
+-  支持从URL中自动提取IP或域名，直接粘贴完整URL亦可正常查询；
+-  无输入时默认显示访问者的IP信息；
+-  根据客户端类型，自适应显示效果。
+由于使用了免费的GeoLite2数据库，精准度上稍有欠缺。
 
 # 效果截图
 ![image](https://raw.githubusercontent.com/sky92682/ip-location/refs/heads/main/screensnap.png)
