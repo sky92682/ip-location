@@ -11,9 +11,9 @@
 ![image](https://raw.githubusercontent.com/sky92682/ip-location/refs/heads/main/screensnap.png)
 
 # 运行参数
-> --host    指定监听的地址（默认为localhost）  
-> --port    指定监听的端口（默认为8080）  
-> --cityDBPath  指定IP城市数据库的路径（默认为当前目录下的"GeoLite2-City.mmdb"文件）  
-> --asnDBPath  指定ASN/运营商数据库的路径（默认为当前目录下的"GeoLite2-ASN.mmdb"文件）  
+> -host    指定监听的地址（默认为localhost）  
+> -port    指定监听的端口（默认为8080）  
+> -cityDBPath  指定IP城市数据库的路径（默认为当前目录下的"GeoLite2-City.mmdb"文件）  
+> -asnDBPath  指定ASN/运营商数据库的路径（默认为当前目录下的"GeoLite2-ASN.mmdb"文件）  
 
 运行后使用Web浏览器访问即可（使用HTTP协议，若需使用HTTPS，建议通过Caddy等工具反代）。
