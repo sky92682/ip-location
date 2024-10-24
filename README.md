@@ -1,6 +1,6 @@
 # 效果截图
-[image](https://raw.githubusercontent.com/sky92682/ip-location/refs/heads/main/image01.png)
-[image](https://raw.githubusercontent.com/sky92682/ip-location/refs/heads/main/image02.png}
+![image](https://raw.githubusercontent.com/sky92682/ip-location/refs/heads/main/image01.png)
+![image](https://raw.githubusercontent.com/sky92682/ip-location/refs/heads/main/image02.png)
 
 # 使用方法
 > --host    指定监听的地址（默认为localhost）  
