@@ -1,3 +1,7 @@
+# 效果截图
+[image](https://github.com/sky92682/ip-location/blob/main/image01.png)
+[image](https://github.com/sky92682/ip-location/blob/main/image02.png)
+
 # 使用方法
 > --host    指定监听的地址（默认为localhost）  
 > --port    指定监听的端口（默认为8080）  
