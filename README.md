@@ -1,3 +1,8 @@
+#功能特点
+>-  支持域名、IPv6/IPV6归属地查询
+>-  支持自动提取IP或域名，直接粘贴完整URL亦可正常查询
+>-  首次访问默认显示访问客户端的IP信息
+
 # 效果截图
 ![image](https://raw.githubusercontent.com/sky92682/ip-location/refs/heads/main/screensnap.png)
 
