@@ -15,4 +15,4 @@
 > --cityDBPath  指定IP城市数据库的路径（默认为当前目录下的"GeoLite2-City.mmdb"文件）  
 > --asnDBPath  指定ASN/运营商数据库的路径（默认为当前目录下的"GeoLite2-ASN.mmdb"文件）  
 
-运行后使用网络浏览器访问即可。
+运行后使用Web浏览器访问即可。
