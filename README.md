@@ -1,4 +1,3 @@
-# ip-location
 # 使用方法
 > --host    指定监听的地址（默认为localhost）  
 > --port    指定监听的端口（默认为8080）  
