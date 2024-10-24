@@ -4,7 +4,7 @@
 -  无输入时默认显示访问者的IP信息；
 -  根据客户端类型，自适应显示效果。  
 
-由于使用了免费的GeoLite2数据库，精准度上稍有欠缺。
+缺点：使用的是GeoLite2数据库，精准度稍有欠缺。
 
 # 效果截图
 ![image](https://raw.githubusercontent.com/sky92682/ip-location/refs/heads/main/screensnap.png)
